@@ -290,7 +290,8 @@ a.button:hover {
 }
 
 #message_list {
-  max-height: 100%; /* Allow scrolling in Firefox */
+  /* max-height: 100%; */
+  /* Allow scrolling in Firefox */
 }
 
 #sidebar {
